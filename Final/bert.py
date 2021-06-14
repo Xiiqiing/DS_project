@@ -141,10 +141,6 @@ kaggle_data = to_tf_data(val_kaggle,val_kaggle_label)
 
 # %% [markdown]
 # # Train and Evaluate
-
-# %% [markdown]
-# ## 模型2 bert (慢)
-
 # %%
 #@title Choose a BERT model to fine-tune
 
