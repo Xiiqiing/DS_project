@@ -2,11 +2,19 @@
 
 ## Final Project
 
-#### Packages used:
+#### Packages used
 
-tensorflow, pytorch, transformers, sklearn, pandas, numpy, seaborn, matplotlib, newspaper, beautifulsoup, nltk, tqdm, tokenizers.
+tensorflow, pytorch, transformers, sklearn, pandas, numpy, seaborn, matplotlib, newspaper, beautifulsoup, nltk, tqdm, tokenizers, psycopg2.
 
-#### Model environments：
+#### Database
+
+Using PostgreSQL.
+
+For FakeNewsCorpus: fake.ipynb
+
+For Wikinews: wiki.ipynb
+
+#### Environments
 
 | Model | BERT-Large (bert.py) | RoBERTa-Large (roberta2.py) | baseline |
 | :----: | :-----| :----- | :----- |
