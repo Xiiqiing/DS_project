@@ -1,4 +1,8 @@
-# DS_project
+# UCPH Data Science project
+
+## Milestones
+
+In folder 'Archive'.
 
 ## Final Project
 
