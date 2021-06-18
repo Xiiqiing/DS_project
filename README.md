@@ -8,7 +8,7 @@ tensorflow, pytorch, transformers, sklearn, pandas, numpy, seaborn, matplotlib, 
 
 #### Model environments：
 
-| BERT-Large (bert.py) | RoBERTa-Large (roberta2.py) | baseline |
-| :-----| :----- | :----- |
-| Google Colab | CentOS Clusters | Google Colab or PC |
-| TPU | GPU & CPU | CPU |
+| Model | BERT-Large (bert.py) | RoBERTa-Large (roberta2.py) | baseline |
+| :----: | :-----| :----- | :----- |
+| Platform | Google Colab | CentOS Clusters | Google Colab or PC |
+| Processor | TPU | GPU & CPU | CPU |
